@@ -25,7 +25,7 @@
  * Release version. Leave the Marlin version or apply a custom scheme.
  */
 #ifndef SHORT_BUILD_VERSION
-  #define SHORT_BUILD_VERSION "2021.2.1-2.0.5.4"
+  #define SHORT_BUILD_VERSION "TwinkieXLII 2021.2.2H"
 #endif
 
 /**
@@ -42,7 +42,7 @@
  * version was tagged.
  */
 #ifndef STRING_DISTRIBUTION_DATE
-  #define STRING_DISTRIBUTION_DATE "2020-07-09"
+  #define STRING_DISTRIBUTION_DATE "2021-02-23"
 #endif
 
 /**
