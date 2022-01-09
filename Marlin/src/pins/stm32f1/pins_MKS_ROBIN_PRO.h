@@ -60,7 +60,7 @@
 // Limit Switches
 //
 #define X_MIN_PIN                           PA15
-#define X_MAX_PIN                           PG7
+#define X_MAX_PIN                           PG14  //Should be PG7 but seems to be burnt out on board, changed to MT3
 #define Y_MIN_PIN                           PA12
 #define Y_MAX_PIN                           PG8
 #define Z_MIN_PIN                           PA11
@@ -170,6 +170,7 @@
 
   #define E2_SERIAL_TX_PIN                  PC13
   #define E2_SERIAL_RX_PIN                  PG9
+  #define TMC_BAUD_RATE 19200
 #endif
 
 //

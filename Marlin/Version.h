@@ -22,26 +22,26 @@
 #pragma once
 
 ////////////////////////////////////
-// JGMaker Artist-D by TwinkieXII //
+// JGMaker Artist-D by LinYongZheng //
 ////////////////////////////////////
 
 /**
  * Marlin release version identifier //BASED on 2.0.7.2
  */
-#define SHORT_BUILD_VERSION "2021.5"
+#define SHORT_BUILD_VERSION "2022.1"
 
 /**
  * Verbose version identifier which should contain a reference to the location
  * from where the binary was downloaded or the source code was compiled.
  */
-#define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION "TwinkieXLII"
+#define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION "LYZ-BLTouch"
 
 /**
  * The STRING_DISTRIBUTION_DATE represents when the binary file was built,
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2021-05-12"
+#define STRING_DISTRIBUTION_DATE "2022-01-08"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
