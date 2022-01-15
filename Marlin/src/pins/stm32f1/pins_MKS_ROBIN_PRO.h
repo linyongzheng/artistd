@@ -60,9 +60,9 @@
 // Limit Switches
 //
 #define X_MIN_PIN                           PA15
-#define X_MAX_PIN                           PG14  //Should be PG7 but seems to be burnt out on board, changed to MT3
+#define X_MAX_PIN                           PG14   //Should be PG7 but seems non-operational, changed to PG14 (MT3) - LYZ
 #define Y_MIN_PIN                           PA12
-#define Y_MAX_PIN                           PG8
+#define Y_MAX_PIN                           PG8    //Non-operational
 #define Z_MIN_PIN                           PA11
 #define Z_MAX_PIN                           PC4
 
